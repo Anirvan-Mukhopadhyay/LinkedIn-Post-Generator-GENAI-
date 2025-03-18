@@ -2,5 +2,5 @@ streamlit
 langchain
 langchain-core
 langchain-community
-langchain_groq
+langchain_groq==0.1.9
 pandas
