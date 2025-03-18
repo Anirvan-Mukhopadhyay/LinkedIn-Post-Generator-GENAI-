@@ -1,0 +1,122 @@
+[
+    {
+        "text": "Hey if I give you text convert that to JSON format as per the example below...",
+        "engagement": 12,
+        "line_count": 30,
+        "language": "English",
+        "tags": ["Self Improvement"]
+    },
+    {
+        "text": "How to go viral on LinkedIn: Start with a sob story that ends in a promotion...",
+        "engagement": 55,
+        "line_count": 9,
+        "language": "English",
+        "tags": ["Social Media Growth"]
+    },
+    {
+        "text": "Journey from being beautiful to whore. Step 1: Start your message with 'Hi beautiful'...",
+        "engagement": 23,
+        "line_count": 7,
+        "language": "English",
+        "tags": ["Gender Equality", "Professionalism"]
+    },
+    {
+        "text": "The Great Indian Parent Expectation - Me: 'I got a job!' Mom: 'Government or private?'...",
+        "engagement": 87,
+        "line_count": 11,
+        "language": "Hinglish",
+        "tags": ["Indian Culture", "Career Expectations"]
+    },
+    {
+        "text": "People say don't tell your goals to others. I think a little differently...",
+        "engagement": 34,
+        "line_count": 8,
+        "language": "Hinglish",
+        "tags": ["Personal Growth", "Motivation"]
+    },
+    {
+        "text": "Have you ever felt your heart race when you open your banking app? Or felt a lump in your throat...",
+        "engagement": 67,
+        "line_count": 26,
+        "language": "Hinglish",
+        "tags": ["Financial Literacy", "Mental Health"]
+    },
+    {
+        "text": "'Hurt people hurt people.' When someone’s pain spills over onto you...",
+        "engagement": 98,
+        "line_count": 25,
+        "language": "English",
+        "tags": ["Motivation", "Emotional Intelligence"]
+    },
+
+    {
+        "text": "The most underrated career advice: Learn to say 'no' professionally. \n\nNot every task is urgent. Not every request needs a 'yes.' \n\nYour time is valuable—treat it that way.",
+        "engagement": 42,
+        "line_count": 5,
+        "language": "English",
+        "tags": ["Work-Life Balance", "Career Advice"]
+    },
+    {
+        "text": "Productivity hack: If a task takes less than 2 minutes, do it immediately. \n\nThe mental weight of small pending tasks is heavier than the effort to complete them.",
+        "engagement": 29,
+        "line_count": 4,
+        "language": "English",
+        "tags": ["Productivity", "Self Improvement"]
+    },
+    {
+        "text": "The Great Indian Love Story:\n\nMom: 'Beta, shaadi kab karoge?'\nMe: 'Career pe focus kar raha hoon. Love marriage ya arranged bhi nahi pata.'\nMom: 'Mera beta bigad gaya!'\n\nSome things never change. 😆",
+        "engagement": 76,
+        "line_count": 6,
+        "language": "Hinglish",
+        "tags": ["Indian Culture", "Relationships"]
+    },
+    {
+        "text": "AI won’t replace your job. But someone who knows how to use AI definitely will.\n\nAdapt. Learn. Stay ahead.",
+        "engagement": 85,
+        "line_count": 3,
+        "language": "English",
+        "tags": ["Technology", "Career Advice"]
+    },
+    {
+        "text": "Breaking news: \n\nYou don’t need to wake up at 5 AM to be successful. \n\nWhat actually matters? Consistency. Discipline. Execution. \n\nFind what works for you.",
+        "engagement": 54,
+        "line_count": 6,
+        "language": "English",
+        "tags": ["Productivity", "Motivation"]
+    },
+    {
+        "text": "If you don’t understand something, explain it to a 5-year-old. \n\nIf you still can’t? You don’t understand it well enough.",
+        "engagement": 39,
+        "line_count": 3,
+        "language": "English",
+        "tags": ["Learning", "Education"]
+    },
+    {
+        "text": "Stop waiting for motivation. \n\nDiscipline will take you places motivation never could.",
+        "engagement": 62,
+        "line_count": 3,
+        "language": "English",
+        "tags": ["Self Improvement", "Motivation"]
+    },
+    {
+        "text": "The biggest scam ever?\n\nSchools teaching us mitochondria is the powerhouse of the cell, but not how to do taxes.",
+        "engagement": 91,
+        "line_count": 4,
+        "language": "English",
+        "tags": ["Education System", "Financial Literacy"]
+    },
+    {
+        "text": "Ever met someone who talks a lot but says nothing? \n\nThat's what happens when you prioritize sounding smart over actually making sense.",
+        "engagement": 44,
+        "line_count": 4,
+        "language": "English",
+        "tags": ["Communication", "Self Awareness"]
+    },
+    {
+        "text": "Want to improve your confidence?\n\n1. Keep small promises to yourself.\n2. Speak slower & clearer.\n3. Stand up straight.\n4. Learn a new skill.\n5. Work out.\n\nConfidence is built, not gifted.",
+        "engagement": 78,
+        "line_count": 7,
+        "language": "English",
+        "tags": ["Confidence", "Personal Growth"]
+    }
+]
